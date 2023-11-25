@@ -2321,7 +2321,25 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2023-11-03 00:29:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-11-03 00:30:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-11-03 00:30:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2023-11-03 00:30:37 +0530"
     },
@@ -2348,12 +2366,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-11-03 00:36:24 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/ride_strider": {
-    "criteria": {
-      "used_warped_fungus_on_a_stick": "2023-11-03 00:29:46 +0530"
     },
     "done": true
   },
@@ -2387,12 +2399,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2023-11-03 00:30:37 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-11-03 00:36:24 +0530"
@@ -2420,12 +2426,6 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-11-03 00:36:24 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2023-11-03 00:30:37 +0530"
     },
     "done": true
   },
